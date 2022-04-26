@@ -51,9 +51,9 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "www.linkedin.com/in/shehan-tharuka"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/shehan-tharuka"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ShehanT98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/shehant98/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://instagram.com/shehant98/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://dribbble.com/shehan98"><img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
 
 </p>
