@@ -14,7 +14,7 @@
 - 👨‍💻 All of my development projects are available at **[My GitHub](https://github.com/shehan98)**
 - 👨‍💻 All of my UI/UX design projects are available at **[My Portfolio](https://dribbble.com/shehan98)**
 
-- 📫 How to reach me **tharukakgas@gmail.com** 
+- 📫 How to reach me **write2shehan@gmail.com** 
 
 <br/>
 
