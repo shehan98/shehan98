@@ -41,7 +41,7 @@
 
 <br/>
 
-## 📊 My Github Stats
+## 📊 Stats
 
   <a href="https://github.com/shehan98/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
