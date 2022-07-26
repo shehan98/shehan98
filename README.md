@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a **Data Science Enthusiast and Web Developer.**
+- 🔭 I’m a **Data Science Enthusiast and Software Engineer.**
 
 - 🌱 I’m currently learning **Deep Learning.**
 
