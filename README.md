@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning.**
 
-- 👯 I’m look forward to collaborating on **Data Projects and UI Design Projects**
+- 👯 I’m look forward to collaborating on **Data Projects**
 
 - 👨‍💻 All of my development projects are available at **[My GitHub](https://github.com/shehan98)**
 - 👨‍💻 All of my UI/UX design projects are available at **[My Portfolio](https://dribbble.com/shehan98)**
